@@ -1,6 +1,6 @@
 /*
   BlinkPot
-  Turns on differnt LEDs depending on the value of a potentiometer.
+  Turns on different LEDs depending on the value of a potentiometer.
 
   by blacknirvana
  */
